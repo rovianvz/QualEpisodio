@@ -1,0 +1,7 @@
+C:\Users\Rovian\Documents\Visual Studio 2012\Projects\QualEpisodio 2.0\QualEpisodioCore\bin\Release\QualEpisodioCore.dll
+C:\Users\Rovian\Documents\Visual Studio 2012\Projects\QualEpisodio 2.0\QualEpisodioCore\bin\Release\QualEpisodioCore.pdb
+C:\Users\Rovian\Documents\Visual Studio 2012\Projects\QualEpisodio 2.0\QualEpisodioCore\bin\Release\SQLite.Designer.dll
+C:\Users\Rovian\Documents\Visual Studio 2012\Projects\QualEpisodio 2.0\QualEpisodioCore\bin\Release\System.Data.SQLite.dll
+C:\Users\Rovian\Documents\Visual Studio 2012\Projects\QualEpisodio 2.0\QualEpisodioCore\obj\Release\QualEpisodioCore.csprojResolveAssemblyReference.cache
+C:\Users\Rovian\Documents\Visual Studio 2012\Projects\QualEpisodio 2.0\QualEpisodioCore\obj\Release\QualEpisodioCore.dll
+C:\Users\Rovian\Documents\Visual Studio 2012\Projects\QualEpisodio 2.0\QualEpisodioCore\obj\Release\QualEpisodioCore.pdb

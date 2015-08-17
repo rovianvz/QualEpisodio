@@ -1,0 +1,32 @@
+C:\Users\Rovian\documents\visual studio 2010\Projects\QualEpisodio\QualEpisodio\bin\Release\QualEpisodio.exe.config
+C:\Users\Rovian\documents\visual studio 2010\Projects\QualEpisodio\QualEpisodio\bin\Release\icon.ico
+C:\Users\Rovian\documents\visual studio 2010\Projects\QualEpisodio\QualEpisodio\bin\Release\QualEpisodio.exe
+C:\Users\Rovian\documents\visual studio 2010\Projects\QualEpisodio\QualEpisodio\bin\Release\QualEpisodio.pdb
+C:\Users\Rovian\documents\visual studio 2010\Projects\QualEpisodio\QualEpisodio\bin\Release\SQLite.Designer.dll
+C:\Users\Rovian\documents\visual studio 2010\Projects\QualEpisodio\QualEpisodio\bin\Release\SQLite.Designer.pdb
+C:\Users\Rovian\documents\visual studio 2010\Projects\QualEpisodio\QualEpisodio\obj\x86\Release\QualEpisodio.csprojResolveAssemblyReference.cache
+C:\Users\Rovian\documents\visual studio 2010\Projects\QualEpisodio\QualEpisodio\obj\x86\Release\QualEpisodio.FormGerenciar.resources
+C:\Users\Rovian\documents\visual studio 2010\Projects\QualEpisodio\QualEpisodio\obj\x86\Release\QualEpisodio.FormBase.resources
+C:\Users\Rovian\documents\visual studio 2010\Projects\QualEpisodio\QualEpisodio\obj\x86\Release\QualEpisodio.FormNova.resources
+C:\Users\Rovian\documents\visual studio 2010\Projects\QualEpisodio\QualEpisodio\obj\x86\Release\QualEpisodio.Properties.Resources.resources
+C:\Users\Rovian\documents\visual studio 2010\Projects\QualEpisodio\QualEpisodio\obj\x86\Release\QualEpisodio.QualEpisodio.resources
+C:\Users\Rovian\documents\visual studio 2010\Projects\QualEpisodio\QualEpisodio\obj\x86\Release\QualEpisodio.csproj.GenerateResource.Cache
+C:\Users\Rovian\documents\visual studio 2010\Projects\QualEpisodio\QualEpisodio\obj\x86\Release\QualEpisodio.exe
+C:\Users\Rovian\documents\visual studio 2010\Projects\QualEpisodio\QualEpisodio\obj\x86\Release\QualEpisodio.pdb
+C:\Users\Rovian\documents\visual studio 2010\Projects\QualEpisodio\QualEpisodio\bin\Release\System.Data.SQLite.dll
+C:\Users\Rovian\documents\visual studio 2010\Projects\QualEpisodio\QualEpisodio\bin\Release\System.Data.SQLite.xml
+C:\Users\Rovian\Documents\Visual Studio 2012\Projects\QualEpisodio\QualEpisodio\bin\Release\icon.ico
+C:\Users\Rovian\Documents\Visual Studio 2012\Projects\QualEpisodio\QualEpisodio\bin\Release\QualEpisodio.exe.config
+C:\Users\Rovian\Documents\Visual Studio 2012\Projects\QualEpisodio\QualEpisodio\bin\Release\QualEpisodio.exe
+C:\Users\Rovian\Documents\Visual Studio 2012\Projects\QualEpisodio\QualEpisodio\bin\Release\QualEpisodio.pdb
+C:\Users\Rovian\Documents\Visual Studio 2012\Projects\QualEpisodio\QualEpisodio\obj\x86\Release\QualEpisodio.FormGerenciar.resources
+C:\Users\Rovian\Documents\Visual Studio 2012\Projects\QualEpisodio\QualEpisodio\obj\x86\Release\QualEpisodio.FormBase.resources
+C:\Users\Rovian\Documents\Visual Studio 2012\Projects\QualEpisodio\QualEpisodio\obj\x86\Release\QualEpisodio.FormNova.resources
+C:\Users\Rovian\Documents\Visual Studio 2012\Projects\QualEpisodio\QualEpisodio\obj\x86\Release\QualEpisodio.Properties.Resources.resources
+C:\Users\Rovian\Documents\Visual Studio 2012\Projects\QualEpisodio\QualEpisodio\obj\x86\Release\QualEpisodio.QualEpisodio.resources
+C:\Users\Rovian\Documents\Visual Studio 2012\Projects\QualEpisodio\QualEpisodio\obj\x86\Release\QualEpisodio.csproj.GenerateResource.Cache
+C:\Users\Rovian\Documents\Visual Studio 2012\Projects\QualEpisodio\QualEpisodio\obj\x86\Release\QualEpisodio.exe
+C:\Users\Rovian\Documents\Visual Studio 2012\Projects\QualEpisodio\QualEpisodio\obj\x86\Release\QualEpisodio.pdb
+C:\Users\Rovian\Documents\Visual Studio 2012\Projects\QualEpisodio 2.0\QualEpisodio\bin\Release\QualEpisodio.exe.config
+C:\Users\Rovian\Documents\Visual Studio 2012\Projects\QualEpisodio 2.0\QualEpisodio\obj\x86\Release\QualEpisodio.exe
+C:\Users\Rovian\Documents\Visual Studio 2012\Projects\QualEpisodio 2.0\QualEpisodio\obj\x86\Release\QualEpisodio.pdb

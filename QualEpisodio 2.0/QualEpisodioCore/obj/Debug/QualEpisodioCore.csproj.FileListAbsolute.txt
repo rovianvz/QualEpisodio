@@ -1,0 +1,6 @@
+C:\Users\Rovian\Documents\Visual Studio 2012\Projects\QualEpisodio 2.0\QualEpisodioCore\bin\Debug\QualEpisodioCore.dll
+C:\Users\Rovian\Documents\Visual Studio 2012\Projects\QualEpisodio 2.0\QualEpisodioCore\bin\Debug\QualEpisodioCore.pdb
+C:\Users\Rovian\Documents\Visual Studio 2012\Projects\QualEpisodio 2.0\QualEpisodioCore\bin\Debug\SQLite.Designer.dll
+C:\Users\Rovian\Documents\Visual Studio 2012\Projects\QualEpisodio 2.0\QualEpisodioCore\bin\Debug\System.Data.SQLite.dll
+C:\Users\Rovian\Documents\Visual Studio 2012\Projects\QualEpisodio 2.0\QualEpisodioCore\obj\Debug\QualEpisodioCore.dll
+C:\Users\Rovian\Documents\Visual Studio 2012\Projects\QualEpisodio 2.0\QualEpisodioCore\obj\Debug\QualEpisodioCore.pdb
